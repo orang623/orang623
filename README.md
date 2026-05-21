@@ -10,9 +10,7 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://anime-chan.vercel.app/api/quotes/random" alt="Anime Quote" />
-</p>
+![Jokes](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 ![](https://komarev.com/ghpvc/?username=orang623&color=00ff99)
 # 🧠 About Me
