@@ -10,7 +10,11 @@
 </p>
 
 ---
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+</p>
 
+![](https://komarev.com/ghpvc/?username=orang623&color=00ff99)
 # 🧠 About Me
 
 ```yaml
